@@ -1,0 +1,13 @@
+{
+    "ros.distro": "kinetic",
+    "python.autoComplete.extraPaths": [
+        "/home/sunsir/catvehicle_ws/devel/lib/python2.7/dist-packages",
+        "/home/sunsir/catkin_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/kinetic/lib/python2.7/dist-packages"
+    ],
+    "files.associations": {
+        "iterator": "cpp",
+        "bitset": "cpp",
+        "random": "cpp"
+    }
+}

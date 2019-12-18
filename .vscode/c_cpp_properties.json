@@ -1,0 +1,57 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/sunsir/catvehicle_ws/devel/include/**",
+                "/home/sunsir/catkin_ws/devel/include/**",
+                "/opt/ros/kinetic/include/**",
+                "/home/sunsir/catkin_ws/src/navigation/amcl/include/**",
+                "/home/sunsir/catkin_ws/src/navigation/base_local_planner/include/**",
+                "/home/sunsir/catkin_ws/src/navigation/carrot_planner/include/**",
+                "/home/sunsir/catvehicle_ws/src/catvehicle/include/**",
+                "/home/sunsir/catkin_ws/src/navigation/clear_costmap_recovery/include/**",
+                "/home/sunsir/catkin_ws/src/navigation/costmap_2d/include/**",
+                "/home/sunsir/catkin_ws/src/navigation/dwa_local_planner/include/**",
+                "/home/sunsir/catkin_ws/src/navigation/global_planner/include/**",
+                "/home/sunsir/catkin_ws/src/go_turn_robot/include/**",
+                "/home/sunsir/catkin_ws/src/path_planner/include/**",
+                "/home/sunsir/catkin_ws/src/navigation/map_server/include/**",
+                "/home/sunsir/catkin_ws/src/navigation/move_base/include/**",
+                "/home/sunsir/catkin_ws/src/navigation/move_slow_and_clear/include/**",
+                "/home/sunsir/catvehicle_ws/src/robot_mrobot/mrobot_bringup/include/**",
+                "/home/sunsir/catkin_ws/src/navigation/nav_core/include/**",
+                "/home/sunsir/catkin_ws/src/navigation/navfn/include/**",
+                "/home/sunsir/catkin_ws/src/pluginlib_tutorials/include/**",
+                "/home/sunsir/catkin_ws/src/navigation/rotate_recovery/include/**",
+                "/home/sunsir/catvehicle_ws/src/sicktoolbox/include/**",
+                "/home/sunsir/catkin_ws/src/stdr_simulator/stdr_gui/include/**",
+                "/home/sunsir/catkin_ws/src/stdr_simulator/stdr_parser/include/**",
+                "/home/sunsir/catkin_ws/src/stdr_simulator/stdr_robot/include/**",
+                "/home/sunsir/catkin_ws/src/stdr_simulator/stdr_samples/include/**",
+                "/home/sunsir/catkin_ws/src/stdr_simulator/stdr_server/include/**",
+                "/home/sunsir/catkin_ws/src/tf2_web_republisher/include/**",
+                "/home/sunsir/catkin_ws/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+                "/home/sunsir/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+                "/home/sunsir/catkin_ws/src/turtlebot3_applications/turtlebot3_panorama/include/**",
+                "/home/sunsir/catkin_ws/src/turtlebot3/turtlebot3_slam/include/**",
+                "/home/sunsir/catkin_ws/src/turtlebot_apps-indigo/turtlebot_actions/include/**",
+                "/home/sunsir/catvehicle_ws/src/velodyne/velodyne_driver/include/**",
+                "/home/sunsir/catvehicle_ws/src/velodyne/velodyne_laserscan/include/**",
+                "/home/sunsir/catvehicle_ws/src/velodyne/velodyne_pointcloud/include/**",
+                "/home/sunsir/catkin_ws/src/navigation/voxel_grid/include/**",
+                "/usr/include/**",
+                "/home/sunsir/catkin_ws/src/go_turn_robot/include/Go_Turn_Robot/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

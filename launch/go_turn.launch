@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<launch>
+    <arg name="distance" default="1.570796327"/>
+    <arg name="velocity" default="0.3"/>
+    <arg name="cmd_vel_topic" default="/cmd_vel"/>
+    <arg name="odom_topic" default="/odom"/>
+    <node name="goturn" pkg="go_turn_robot" type="goturn" args="$(arg distance) $(arg velocity)" output="screen"/>
+</launch>
